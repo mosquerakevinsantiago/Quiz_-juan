@@ -6,3 +6,5 @@
 3. 🦿 Computación cunatica: modelo de computo que utiliza principios de la mecanica cuantica.
 
 4. 🪿 Cookies: Archivos pequeños que almacenan información del usuario en sitios web.
+
+5. 👀 Dominio: Nombre unico que identifica un sitio web por internet.
