@@ -8,3 +8,9 @@
 4. 🪿 Cookies: Archivos pequeños que almacenan información del usuario en sitios web.
 
 5. 👀 Dominio: Nombre unico que identifica un sitio web por internet.
+
+6. 🦀 Funcionalidad mínima viable (MVP): Versión básica de un producto para validación temprana.
+
+
+
+
